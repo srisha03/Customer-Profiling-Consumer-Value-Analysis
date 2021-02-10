@@ -103,6 +103,7 @@ Model Used: CatBoost Classifier
 Test Score Achieved: 91.5%
 
 > Classification Report
+
 ![image](https://user-images.githubusercontent.com/60640107/107478668-7a115500-6b3f-11eb-8c54-a491a5b66c5c.png)
 
 We have a significant number of false positive predictions. We can resolve this by builing models that factor in the imabalance in the data set (by using Cost Sensitive, Data Sampling and Probability Calibration based models) to optimize the classification.
