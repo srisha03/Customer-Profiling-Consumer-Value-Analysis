@@ -99,6 +99,7 @@ Each of the attributes were given an equal weightage to calculate a score for "c
 The objective here is to create a model to classify the Status of a client (Active/Inactive) so that it could be utizlized in the future to assess if an Active customer will potentially become an Inactive one.
 
 Model Used: CatBoost Classifier
+
 Test Score Achieved: 91.5%
 
 > Classification Report
