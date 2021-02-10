@@ -1,4 +1,4 @@
-# Customer Analytics Case Study
+# Customer Profiling Consumer Value Analysis
 
 ---
 
@@ -41,7 +41,7 @@ Package Table:
 3. Category - We sell three types of proxies:  Dedicated (meaning a single customer has use), Semi-dedicated (meaning that multiple customers use the same one, but they get to pay a cheaper price as a result), and Rotating (meaning that they pay a set $ amount, and on a periodic basis that is usually around 10 minutes, they rotate amongst a pool of proxies).
 4. Country - Our proxies IP addresses are in data centers throughout the world, so this is the location of that IP address.
 5. Type - I'm actually not sure why this field sometimes has a combination of country and category, and usually just says standard.
-6. Category - Sorry, I should have labeled these better.  The first Category field above is from a proxy packages table, and this one in the far right column is from the history table. So for cancellations, this one is going to be the better to use.
+6. Category - These should have been labeled better.  The first Category field above is from a proxy packages table, and this one in the far right column is from the history table. So for cancellations, this one is going to be the better to use.
 
 [Back To The Top](#Objective)
 
@@ -118,3 +118,5 @@ We have a significant number of false positive predictions. We can resolve this 
 2. Working with a join on cancel table and package table to identify trends between cancelled orders with respect to package purchases.
 
 *NOTE: Open the .html file to view the plotly visualizations.* 
+
+[Back To The Top](#Objective)
