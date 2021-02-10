@@ -1,4 +1,4 @@
-# Customer Profiling Consumer Value Analysis
+# Customer Profiling & Consumer Value Analysis
 
 ---
 
