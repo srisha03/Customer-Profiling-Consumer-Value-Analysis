@@ -9,7 +9,6 @@ This dataset (mimic of real time data) was shared by an startup (that primarily 
 ![19209](https://user-images.githubusercontent.com/60640107/107474174-7f6aa180-6b37-11eb-9bd4-80a8acf6551f.jpg)
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - Dataset Description
 - Exploratory Data Analysis and Data Visualization
