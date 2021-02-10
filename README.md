@@ -85,8 +85,6 @@ K-means clustering was used along with the elbow plot to establish the right num
 
 ![cluysters](https://user-images.githubusercontent.com/60640107/107477810-0fabe500-6b3e-11eb-87a5-9adb89ab04a0.png)
 
-[Back To The Top](#Objective)
-
 #### Generating an overall score to value customers as High/Medium/Low Value
 
 Each of the attributes were given an equal weightage to calculate a score for "customer value". Ideally, it would be better to take a weighted estimate of each cluster. The scoring may be influenced by a biad or due to insufficiency of data which is causing irregualr clusters in terms of revenue.
